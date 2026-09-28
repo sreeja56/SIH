@@ -1,0 +1,12 @@
+{
+  "name": "curo",
+  "description": "Rural healthcare accessibility platform for public health and tele-triage with multilingual AI assistant, doctor booking, compressed document vault, and emergency helplines.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
